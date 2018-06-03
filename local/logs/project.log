@@ -1,53 +1,53 @@
-2018-06-03T04:28:11.893Z - normal: Load ~/.CocosCreator/settings.json
-2018-06-03T04:28:11.896Z - normal: checking language setting...
-2018-06-03T04:28:11.896Z - normal: Language: zh
-2018-06-03T04:28:12.430Z - success: protocol editor-framework registered
-2018-06-03T04:28:12.430Z - success: protocol app registered
-2018-06-03T04:28:12.430Z - success: protocol theme registered
-2018-06-03T04:28:12.431Z - success: protocol packages registered
-2018-06-03T04:28:12.431Z - success: protocol unpack registerred
-2018-06-03T04:28:12.431Z - success: protocol disable-commonjs registerred
-2018-06-03T04:28:12.637Z - normal: connected!
-2018-06-03T04:28:12.641Z - normal: Check project /Users/yepat/Documents/creator_pro/HelloWorld
-2018-06-03T04:28:12.643Z - normal: Initializing Cocos2d
-2018-06-03T04:28:12.802Z - normal: Initializing Asset Database
-2018-06-03T04:28:12.828Z - success: protocol uuid registerred
-2018-06-03T04:28:12.828Z - success: protocol db registerred
-2018-06-03T04:28:12.828Z - success: protocol thumbnail registerred
-2018-06-03T04:28:12.828Z - normal: Loading editor/builtin packages
-2018-06-03T04:28:12.844Z - success: anysdk loaded
-2018-06-03T04:28:12.941Z - success: assets loaded
-2018-06-03T04:28:12.944Z - success: builder loaded
-2018-06-03T04:28:12.945Z - success: cocos-analytics loaded
-2018-06-03T04:28:12.949Z - success: console loaded
-2018-06-03T04:28:12.977Z - success: fb-instant-games loaded
-2018-06-03T04:28:12.981Z - success: hierarchy loaded
-2018-06-03T04:28:12.984Z - success: inspector loaded
-2018-06-03T04:28:12.985Z - success: keystore loaded
-2018-06-03T04:28:12.992Z - success: node-library loaded
-2018-06-03T04:28:12.994Z - success: package-asset loaded
-2018-06-03T04:28:12.996Z - success: preferences loaded
-2018-06-03T04:28:12.998Z - success: project-exporter loaded
-2018-06-03T04:28:13.010Z - success: project-importer loaded
-2018-06-03T04:28:13.013Z - success: project-settings loaded
-2018-06-03T04:28:13.016Z - success: ui-kit loaded
-2018-06-03T04:28:13.020Z - success: ui-grid loaded
-2018-06-03T04:28:13.024Z - success: scene loaded
-2018-06-03T04:28:13.025Z - success: sprite-editor loaded
-2018-06-03T04:28:13.028Z - success: store loaded
-2018-06-03T04:28:13.033Z - success: timeline loaded
-2018-06-03T04:28:13.033Z - normal: Loading builtin packages
-2018-06-03T04:28:13.036Z - success: asset-db-debugger loaded
-2018-06-03T04:28:13.037Z - success: color-picker loaded
-2018-06-03T04:28:13.040Z - success: package-manager loaded
-2018-06-03T04:28:13.044Z - success: sdkbox loaded
-2018-06-03T04:28:13.049Z - success: tester loaded
-2018-06-03T04:28:13.052Z - success: ui-kit-preview-extra loaded
-2018-06-03T04:28:13.055Z - success: ui-kit-preview loaded
-2018-06-03T04:28:13.058Z - success: ui-tree loaded
-2018-06-03T04:28:13.846Z - normal: Initializing project /Users/yepat/Documents/creator_pro/HelloWorld
-2018-06-03T04:28:13.850Z - normal: Loading packages
-2018-06-03T04:28:13.854Z - normal: Watching packages
-2018-06-03T04:28:13.864Z - normal: Run Application
-2018-06-03T04:28:14.423Z - success: preview server running at http://localhost:7456
-2018-06-03T04:28:18.349Z - normal: 1.9.1
+2018-06-03T11:48:26.016Z - normal: Load ~/.CocosCreator/settings.json
+2018-06-03T11:48:26.019Z - normal: checking language setting...
+2018-06-03T11:48:26.019Z - normal: Language: zh
+2018-06-03T11:48:26.986Z - success: protocol editor-framework registered
+2018-06-03T11:48:26.986Z - success: protocol app registered
+2018-06-03T11:48:26.986Z - success: protocol theme registered
+2018-06-03T11:48:26.987Z - success: protocol packages registered
+2018-06-03T11:48:26.987Z - success: protocol unpack registerred
+2018-06-03T11:48:26.987Z - success: protocol disable-commonjs registerred
+2018-06-03T11:48:27.229Z - normal: connected!
+2018-06-03T11:48:27.233Z - normal: Check project /Users/yepat/Documents/GitHub/HelloWorld
+2018-06-03T11:48:27.235Z - normal: Initializing Cocos2d
+2018-06-03T11:48:27.502Z - normal: Initializing Asset Database
+2018-06-03T11:48:27.540Z - success: protocol uuid registerred
+2018-06-03T11:48:27.540Z - success: protocol db registerred
+2018-06-03T11:48:27.540Z - success: protocol thumbnail registerred
+2018-06-03T11:48:27.540Z - normal: Loading editor/builtin packages
+2018-06-03T11:48:27.568Z - success: anysdk loaded
+2018-06-03T11:48:27.701Z - success: assets loaded
+2018-06-03T11:48:27.706Z - success: builder loaded
+2018-06-03T11:48:27.709Z - success: cocos-analytics loaded
+2018-06-03T11:48:27.714Z - success: console loaded
+2018-06-03T11:48:27.742Z - success: fb-instant-games loaded
+2018-06-03T11:48:27.748Z - success: hierarchy loaded
+2018-06-03T11:48:27.754Z - success: inspector loaded
+2018-06-03T11:48:27.756Z - success: keystore loaded
+2018-06-03T11:48:27.766Z - success: node-library loaded
+2018-06-03T11:48:27.769Z - success: package-asset loaded
+2018-06-03T11:48:27.773Z - success: preferences loaded
+2018-06-03T11:48:27.777Z - success: project-exporter loaded
+2018-06-03T11:48:27.799Z - success: project-importer loaded
+2018-06-03T11:48:27.802Z - success: project-settings loaded
+2018-06-03T11:48:27.808Z - success: ui-kit loaded
+2018-06-03T11:48:27.812Z - success: ui-grid loaded
+2018-06-03T11:48:27.816Z - success: scene loaded
+2018-06-03T11:48:27.818Z - success: sprite-editor loaded
+2018-06-03T11:48:27.822Z - success: store loaded
+2018-06-03T11:48:27.828Z - success: timeline loaded
+2018-06-03T11:48:27.828Z - normal: Loading builtin packages
+2018-06-03T11:48:27.832Z - success: asset-db-debugger loaded
+2018-06-03T11:48:27.833Z - success: color-picker loaded
+2018-06-03T11:48:27.837Z - success: package-manager loaded
+2018-06-03T11:48:27.844Z - success: sdkbox loaded
+2018-06-03T11:48:27.849Z - success: tester loaded
+2018-06-03T11:48:27.852Z - success: ui-kit-preview-extra loaded
+2018-06-03T11:48:27.855Z - success: ui-kit-preview loaded
+2018-06-03T11:48:27.859Z - success: ui-tree loaded
+2018-06-03T11:48:28.925Z - normal: Initializing project /Users/yepat/Documents/GitHub/HelloWorld
+2018-06-03T11:48:28.928Z - normal: Loading packages
+2018-06-03T11:48:28.932Z - normal: Watching packages
+2018-06-03T11:48:28.941Z - normal: Run Application
+2018-06-03T11:48:30.357Z - success: preview server running at http://localhost:7456
+2018-06-03T11:48:34.503Z - normal: 1.9.1
