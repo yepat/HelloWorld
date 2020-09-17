@@ -164,7 +164,7 @@ cc.Class({
 
         this.heroMoveX = this.stick.height
         var time = this.heroMoveX/this.heroMoveSpeed;
-        var heroMove = cc.moveBy(time,cc.p(this.heroMoveX,0));
+        var heroMove = cc.moveBy(time,cc.v2(this.heroMoveX,0));
 
         var callFunc = cc.callFunc(function(){
             cc.log("成功失败判定");
@@ -225,7 +225,7 @@ cc.Class({
         cc.log("currentLandRange:"+this.currentLandRange)
         var length = this.currentLandRange + this.secondLand.width - 30;
         this.runLength +=length;
-        var action = cc.moveBy(this.moveDuration,cc.p(-length,0));
+        var action = cc.moveBy(this.moveDuration,cc.v2(-length,0));
         this.node.runAction(action);
 
         this.firstLand = this.secondLand;
@@ -248,7 +248,7 @@ cc.Class({
         //secondland;
         this.secondLand.setPosition(this.runLength+winSize.width,0);
         var l = winSize.width - range;
-        var secondAction = cc.moveBy(this.moveDuration,cc.p(-l,0));
+        var secondAction = cc.moveBy(this.moveDuration,cc.v2(-l,0));
         var seq =cc.sequence(secondAction,callFunc);
         this.secondLand.runAction(seq);
     },
@@ -263,7 +263,7 @@ cc.Class({
         var stickFall = cc.rotateBy(0.5, 90);
         stickFall.easing(cc.easeIn(3));
         this.stick.runAction(stickFall);
-        var action = cc.moveBy(0.5,cc.p(0,-350));
+        var action = cc.moveBy(0.5,cc.v2(0,-350));
         action.easing(cc.easeIn(3));
         this.hero.runAction(action);
 
